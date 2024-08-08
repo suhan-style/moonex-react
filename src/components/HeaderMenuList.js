@@ -1,29 +1,29 @@
 const HeaderMenuList = [
     {
         navItem : 'Home',
-        navLink : '/'
+        navLink : '/moonex-react'
     },
     {
         navItem : 'Portfolio',
-        navLink : '/portfolio',
+        navLink : 'moonex-react/portfolio',
         children : [
             {
                 navItem : 'Portfolio Type 1',
-                navLink : '/portfolio-type-1'
+                navLink : 'moonex-react/portfolio-type-1'
             },
             {
                 navItem : 'Portfolio Type 2',
-                navLink : '/portfolio-type-2'
+                navLink : 'moonex-react/portfolio-type-2'
             }
         ]
     },
     {
         navItem : 'Coding Task',
-        navLink : '/coding-task'
+        navLink : 'moonex-react/coding-task'
     },
     {
         navItem : 'Contact',
-        navLink : '/contact'
+        navLink : 'moonex-react/contact'
     }
 ];
 

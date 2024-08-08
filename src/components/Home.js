@@ -164,7 +164,7 @@ const Home = () => {
             <div className='h-container h-t-bg'>
                 <div className='h-row h-pd-top-bottom-l'>
                     <div className='h-col-4'>
-                        <img src={`${process.env.PUBLIC_URL}/images/quote.png`} alt='quote-img' />
+                        <img src='/moonex-react/images/quote.png' alt='quote-img' />
                     </div>
                     <div className='h-col-8'>
                         <div className='t-wrapper'>

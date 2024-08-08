@@ -11,9 +11,11 @@ const Header = () => {
         <>
             <header ref={screenRef}>
                 <div className='header-wrapper'>
-                    <div id='logo'>
-                        <a href="/"><img src='images/logo-dark.png' alt='Logo' /></a>
-                    </div>
+                <div id='logo'>
+                    <a href={`${process.env.PUBLIC_URL}/`}>
+                        <img src={`${process.env.PUBLIC_URL}/images/logo-dark.png`} alt='Logo' />
+                    </a>
+                </div>
                     {
                         screenWidth.width > 1000 ? <div id='menu'><Menu /></div> : null
                     }

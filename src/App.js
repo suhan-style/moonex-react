@@ -32,7 +32,7 @@ const App = () => {
           zIndex: 99999
         }}
       />
-      <BrowserRouter>
+      <BrowserRouter basename="/moonex-react">
         <Header />
           <Routes>
             <Route path='/' element={<Home />} />

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useDimensions from 'react-use-dimensions';
 import Menu from './Menu';
 import HemburgerMenu from './HemburgerMenu';
@@ -12,9 +13,9 @@ const Header = () => {
             <header ref={screenRef}>
                 <div className='header-wrapper'>
                 <div id='logo'>
-                    <a href={`${process.env.PUBLIC_URL}/`}>
+                    <Link to='/'>
                         <img src={`${process.env.PUBLIC_URL}/images/logo-dark.png`} alt='Logo' />
-                    </a>
+                    </Link>
                 </div>
                     {
                         screenWidth.width > 1000 ? <div id='menu'><Menu /></div> : null

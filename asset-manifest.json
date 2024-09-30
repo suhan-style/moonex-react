@@ -1,7 +1,7 @@
 {
-  "main.css": "/moonex-react/static/css/main.99795942.chunk.css",
-  "main.js": "/moonex-react/static/js/main.6389c3cc.chunk.js",
-  "main.js.map": "/moonex-react/static/js/main.6389c3cc.chunk.js.map",
+  "main.css": "/moonex-react/static/css/main.2ad6cc2f.chunk.css",
+  "main.js": "/moonex-react/static/js/main.ec8c7ce5.chunk.js",
+  "main.js.map": "/moonex-react/static/js/main.ec8c7ce5.chunk.js.map",
   "static/js/1.4f473d82.chunk.js": "/moonex-react/static/js/1.4f473d82.chunk.js",
   "static/js/1.4f473d82.chunk.js.map": "/moonex-react/static/js/1.4f473d82.chunk.js.map",
   "static/css/2.783b070a.chunk.css": "/moonex-react/static/css/2.783b070a.chunk.css",
@@ -9,10 +9,10 @@
   "static/js/2.c860aae7.chunk.js.map": "/moonex-react/static/js/2.c860aae7.chunk.js.map",
   "runtime~main.js": "/moonex-react/static/js/runtime~main.c510e968.js",
   "runtime~main.js.map": "/moonex-react/static/js/runtime~main.c510e968.js.map",
-  "static/media/index.css": "/moonex-react/static/media/main-image.a743b2a8.png",
-  "static/css/main.99795942.chunk.css.map": "/moonex-react/static/css/main.99795942.chunk.css.map",
+  "static/media/index.css": "/moonex-react/static/media/testimonial-bg.017b088b.png",
+  "static/css/main.2ad6cc2f.chunk.css.map": "/moonex-react/static/css/main.2ad6cc2f.chunk.css.map",
   "static/css/2.783b070a.chunk.css.map": "/moonex-react/static/css/2.783b070a.chunk.css.map",
   "index.html": "/moonex-react/index.html",
-  "precache-manifest.554396c6129d2cba1240eac841903040.js": "/moonex-react/precache-manifest.554396c6129d2cba1240eac841903040.js",
+  "precache-manifest.64fd64de9271356dc3270fd40166273b.js": "/moonex-react/precache-manifest.64fd64de9271356dc3270fd40166273b.js",
   "service-worker.js": "/moonex-react/service-worker.js"
 }

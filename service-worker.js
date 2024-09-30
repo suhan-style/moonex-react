@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/moonex-react/precache-manifest.5879e5f7e4de266b27789310223e40be.js"
+  "/moonex-react/precache-manifest.c3d19eb9c7e34d32b6ebf83d2c3bb506.js"
 );
 
 workbox.clientsClaim();

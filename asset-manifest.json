@@ -1,7 +1,7 @@
 {
-  "main.css": "/moonex-react/static/css/main.2ad6cc2f.chunk.css",
-  "main.js": "/moonex-react/static/js/main.ec8c7ce5.chunk.js",
-  "main.js.map": "/moonex-react/static/js/main.ec8c7ce5.chunk.js.map",
+  "main.css": "/moonex-react/static/css/main.5674cdb3.chunk.css",
+  "main.js": "/moonex-react/static/js/main.ee8ef742.chunk.js",
+  "main.js.map": "/moonex-react/static/js/main.ee8ef742.chunk.js.map",
   "static/js/1.4f473d82.chunk.js": "/moonex-react/static/js/1.4f473d82.chunk.js",
   "static/js/1.4f473d82.chunk.js.map": "/moonex-react/static/js/1.4f473d82.chunk.js.map",
   "static/css/2.783b070a.chunk.css": "/moonex-react/static/css/2.783b070a.chunk.css",
@@ -10,9 +10,9 @@
   "runtime~main.js": "/moonex-react/static/js/runtime~main.c510e968.js",
   "runtime~main.js.map": "/moonex-react/static/js/runtime~main.c510e968.js.map",
   "static/media/index.css": "/moonex-react/static/media/testimonial-bg.017b088b.png",
-  "static/css/main.2ad6cc2f.chunk.css.map": "/moonex-react/static/css/main.2ad6cc2f.chunk.css.map",
+  "static/css/main.5674cdb3.chunk.css.map": "/moonex-react/static/css/main.5674cdb3.chunk.css.map",
   "static/css/2.783b070a.chunk.css.map": "/moonex-react/static/css/2.783b070a.chunk.css.map",
   "index.html": "/moonex-react/index.html",
-  "precache-manifest.64fd64de9271356dc3270fd40166273b.js": "/moonex-react/precache-manifest.64fd64de9271356dc3270fd40166273b.js",
+  "precache-manifest.24b96cf28919049af7c22d11c1629c60.js": "/moonex-react/precache-manifest.24b96cf28919049af7c22d11c1629c60.js",
   "service-worker.js": "/moonex-react/service-worker.js"
 }

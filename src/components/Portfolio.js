@@ -72,9 +72,9 @@ const Portfolio = () => {
     return(
         <>
             <div className='h-container'>
-                <div className='h-row h-pd-top-l'>
+                <div className='h-row h-pd-top-bottom-l titlebar-bg'>
                     <div className='h-col-12'>
-                        <h2>PORTFOLIO</h2>
+                        <h2 className='text-center'>PORTFOLIO</h2>
                     </div>
                 </div>
 

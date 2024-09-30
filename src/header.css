@@ -156,29 +156,6 @@ header {
 #mobile_menu ul li.has-children .sub-menu {
     display: none;
 }
-/* #mobile_menu .mobile-menu-wrapper ul li.has-children .sub-menu {
-    overflow: hidden;
-    height: 0px;
-    transition: all ease .4s;
-}
-#mobile_menu .mobile-menu-wrapper ul li.has-children .sub-menu.show {
-    height: auto;
-}
-#mobile_menu .mobile-menu-wrapper ul li.has-children .sub-menu:before {
-    content: "";
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    border-top: 10px solid #000;
-    position: absolute;
-    top: 30px;
-    right: 35px;
-    cursor: pointer;
-    transition: all ease .4s;
-}
-#mobile_menu .mobile-menu-wrapper ul li.has-children .sub-menu.show:before {
-    content: "";
-    transform: rotate(180deg);
-} */
 #mobile_menu ul li a {
     font-family: 'Cerebri Sans Bold';
     font-size: 30px;
@@ -249,13 +226,6 @@ header {
     #mobile_menu ul li .sub-menu li a {
         font-size: 16px;
         line-height: 1.2;
-    }
-    #mobile_menu .mobile-menu-wrapper ul li.has-children .sub-menu:before {
-        content: "";
-        border-left: 8px solid transparent;
-        border-right: 8px solid transparent;
-        border-top: 8px solid #000;
-        top: 16px;
     }
     #mobile_menu_social {
         padding: 20px 20px 20px 40px;

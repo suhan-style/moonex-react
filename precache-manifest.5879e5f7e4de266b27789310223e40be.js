@@ -32,20 +32,20 @@ self.__precacheManifest = [
     "url": "/moonex-react/static/media/Cerebri Sans Bold.4180e23f.ttf"
   },
   {
-    "revision": "562a9e390c4c081cc810b025ce0dc919",
-    "url": "/moonex-react/static/media/Cerebri Sans ExtraBold.562a9e39.ttf"
-  },
-  {
-    "revision": "4e5720eb83dd0ec371b8e75619264c9e",
-    "url": "/moonex-react/static/media/Cerebri Sans Heavy.4e5720eb.ttf"
+    "revision": "017b088bcfadd28e733e98bce5a8f64a",
+    "url": "/moonex-react/static/media/testimonial-bg.017b088b.png"
   },
   {
     "revision": "a743b2a8e5044d418d5d85ec9a47f49d",
     "url": "/moonex-react/static/media/main-image.a743b2a8.png"
   },
   {
-    "revision": "017b088bcfadd28e733e98bce5a8f64a",
-    "url": "/moonex-react/static/media/testimonial-bg.017b088b.png"
+    "revision": "562a9e390c4c081cc810b025ce0dc919",
+    "url": "/moonex-react/static/media/Cerebri Sans ExtraBold.562a9e39.ttf"
+  },
+  {
+    "revision": "4e5720eb83dd0ec371b8e75619264c9e",
+    "url": "/moonex-react/static/media/Cerebri Sans Heavy.4e5720eb.ttf"
   },
   {
     "revision": "be0dfd5ab4b6550c7972d86ae624abaf",

@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import AnimatedCursor from "react-animated-cursor";
@@ -42,6 +42,10 @@ const App = () => {
           <Route path='/portfolio-type-2' element={<PortfolioTypeTwo />} />
           <Route path='/coding-task' element={<CodingTask />} />
           <Route path='/contact' element={<Contact />} />
+          {/* Catch-all route for undefined paths */}
+          {/* <Route path='*' element={<Error />} /> */}
+          {/* redirect to home page if undefined path occurs */}
+          <Route path='*' element={<Navigate to="/" />} />
         </Routes>
         <Footer />
       </BrowserRouter>

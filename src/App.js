@@ -20,7 +20,7 @@ const App = () => {
     });
   }, []);
 
-  return(
+  return (
     <>
       <AnimatedCursor
         outerSize={50}
@@ -32,20 +32,21 @@ const App = () => {
           zIndex: 99999
         }}
       />
-      <BrowserRouter basename="/moonex-react">
+      {/* Set basename for GitHub Pages deployment */}
+      <BrowserRouter basename="/moonex-react">  
         <Header />
-          <Routes>
-            <Route path='/' element={<Home />} />
-            <Route path='/portfolio' element={<Portfolio />} />
-            <Route path='/portfolio-type-1' element={<PortfolioTypeOne />} />
-            <Route path='/portfolio-type-2' element={<PortfolioTypeTwo />} />
-            <Route path='/coding-task' element={<CodingTask />} />
-            <Route path='/contact' element={<Contact />} />
-          </Routes>
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/portfolio' element={<Portfolio />} />
+          <Route path='/portfolio-type-1' element={<PortfolioTypeOne />} />
+          <Route path='/portfolio-type-2' element={<PortfolioTypeTwo />} />
+          <Route path='/coding-task' element={<CodingTask />} />
+          <Route path='/contact' element={<Contact />} />
+        </Routes>
         <Footer />
       </BrowserRouter>
     </>
-  )
-}
+  );
+};
 
 export default App;

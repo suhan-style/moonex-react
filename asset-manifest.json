@@ -1,7 +1,7 @@
 {
   "main.css": "/moonex-react/static/css/main.99795942.chunk.css",
-  "main.js": "/moonex-react/static/js/main.a5588b8e.chunk.js",
-  "main.js.map": "/moonex-react/static/js/main.a5588b8e.chunk.js.map",
+  "main.js": "/moonex-react/static/js/main.6389c3cc.chunk.js",
+  "main.js.map": "/moonex-react/static/js/main.6389c3cc.chunk.js.map",
   "static/js/1.4f473d82.chunk.js": "/moonex-react/static/js/1.4f473d82.chunk.js",
   "static/js/1.4f473d82.chunk.js.map": "/moonex-react/static/js/1.4f473d82.chunk.js.map",
   "static/css/2.783b070a.chunk.css": "/moonex-react/static/css/2.783b070a.chunk.css",
@@ -9,10 +9,10 @@
   "static/js/2.c860aae7.chunk.js.map": "/moonex-react/static/js/2.c860aae7.chunk.js.map",
   "runtime~main.js": "/moonex-react/static/js/runtime~main.c510e968.js",
   "runtime~main.js.map": "/moonex-react/static/js/runtime~main.c510e968.js.map",
-  "static/media/index.css": "/moonex-react/static/media/Cerebri Sans Bold.4180e23f.ttf",
+  "static/media/index.css": "/moonex-react/static/media/main-image.a743b2a8.png",
   "static/css/main.99795942.chunk.css.map": "/moonex-react/static/css/main.99795942.chunk.css.map",
   "static/css/2.783b070a.chunk.css.map": "/moonex-react/static/css/2.783b070a.chunk.css.map",
   "index.html": "/moonex-react/index.html",
-  "precache-manifest.a27bb029be169da8261e1894376d964e.js": "/moonex-react/precache-manifest.a27bb029be169da8261e1894376d964e.js",
+  "precache-manifest.554396c6129d2cba1240eac841903040.js": "/moonex-react/precache-manifest.554396c6129d2cba1240eac841903040.js",
   "service-worker.js": "/moonex-react/service-worker.js"
 }

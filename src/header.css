@@ -227,6 +227,9 @@ header {
         font-size: 16px;
         line-height: 1.2;
     }
+    #mobile_menu ul li.has-children .dropdown {
+        top: 15px;
+    }
     #mobile_menu_social {
         padding: 20px 20px 20px 40px;
     }
